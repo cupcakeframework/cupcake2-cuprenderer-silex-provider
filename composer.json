@@ -3,7 +3,7 @@
     "description": "Template Engine used in PHP CupCake 2 Framework's provider for silex",
     "autoload": {
         "psr-4": {
-            "CupCake2\\": "src/"
+            "CupCake2\\Provider\\": "src/"
         }
     },
     "license": "MIT",
