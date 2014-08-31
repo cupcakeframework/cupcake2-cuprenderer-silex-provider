@@ -1,10 +1,6 @@
 {
     "name": "cupcake-framework/cupcake2-cuprenderer-silex-provider",
     "description": "Template Engine used in PHP CupCake 2 Framework's provider for silex",
-    "require": {
-        "silex/silex": "~1.1",
-        "cupcake-framework/cupcake2-cuprenderer": "dev-master"
-    },
     "autoload": {
         "psr-4": {
             "CupCake2\\": "src/"
